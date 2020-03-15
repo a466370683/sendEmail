@@ -1,0 +1,37 @@
+[INFO 2020-03-14 13:25:48 diaoyu.log:77] 开始使用
+[INFO 2020-03-14 13:30:31 diaoyu.log:80] 开始使用
+[INFO 2020-03-14 13:32:52 diaoyu.log:80] 开始使用
+[ERROR 2020-03-14 13:33:02 diaoyu.log:147] [Errno 2] No such file or directory: '../image/logo.png'
+[INFO 2020-03-14 13:34:51 diaoyu.log:80] 开始使用
+[ERROR 2020-03-14 13:35:06 diaoyu.log:147] [Errno 2] No such file or directory: '../image/logo.png'
+[INFO 2020-03-14 13:35:37 diaoyu.log:80] 开始使用
+[INFO 2020-03-14 13:40:52 diaoyu.log:80] 开始使用
+[INFO 2020-03-14 13:42:04 diaoyu.log:80] 开始使用
+[INFO 2020-03-14 13:44:38 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 13:45:26 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 13:45:27 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 14:12:47 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:13:29 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:13:34 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:14:48 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:16:20 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:17:02 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:17:13 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:17:34 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:17:57 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:18:08 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 14:20:23 diaoyu.log:81] 开始使用
+[ERROR 2020-03-14 14:20:43 diaoyu.log:152] (535, b'5.7.12 SMTP access disabled')
+[INFO 2020-03-14 14:23:32 diaoyu.log:81] 开始使用
+[ERROR 2020-03-14 14:23:52 diaoyu.log:154] (535, b'5.7.12 SMTP access disabled')
+[INFO 2020-03-14 14:24:48 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 16:05:47 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 16:05:49 diaoyu.log:91] 暂停监听
+[INFO 2020-03-14 16:30:17 diaoyu.log:81] 开始使用
+[INFO 2020-03-14 16:30:54 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 16:30:57 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 16:31:00 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 16:31:03 diaoyu.log:91] 暂停监听
+[INFO 2020-03-14 16:31:06 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 16:31:09 diaoyu.log:139] 查看数据库
+[INFO 2020-03-14 16:31:11 diaoyu.log:163] 关闭应用
